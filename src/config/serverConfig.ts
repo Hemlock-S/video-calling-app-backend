@@ -1,0 +1,17 @@
+// import dotenv from "dotenv";
+
+// dotenv.config();
+
+// export default {
+//     PORT: process.env.PORT || 5000
+// };
+
+// ------------------practice-----------------------
+
+import dotenv from "dotenv";
+
+dotenv.config();
+
+export default{
+    PORT: process.env.PORT || 5000
+};
